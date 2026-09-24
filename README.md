@@ -1,32 +1,27 @@
-# Hi, I'm Nazir 👋
+Hi, I'm Nazir Umar Ibrahim 👋
 
-**Python & Django Developer | Full-Stack | AI Integration**  
-Based in Sokoto, Nigeria
+Python / Django Full-Stack Developer
 
-I build practical software for real businesses — inventory systems, studio management platforms, AI chatbots, and automation tools.
+I build production-ready web platforms, REST APIs,
+business automation systems and AI-powered applications.
 
-### 🛠️ Tech Stack
-**Backend:** Python, Django, Django REST Framework, FastAPI, Celery, Redis, PostgreSQL  
-**Frontend:** Next.js, React, TypeScript, HTMX, Tailwind CSS  
-**AI / ML:** LangChain, LangGraph, OpenCV, RAG systems  
-**Other:** Docker, GitHub Actions, Paystack, WebSockets
+Core Stack
+Python • Django • Django REST Framework • PostgreSQL
+Redis • Celery • Docker • Next.js • React • LangGraph
 
-### 🔥 Featured Projects
+Featured Work
+StudioFlow
+Hospital Inventory API
+Nigerian Constitution RAG Assistant
+AI/RAG Projects
 
-**[StudioFlow – Photography Studio Management System](https://github.com/nazirumar/Photography-Studio-Management-System)**  
-Complete production-ready system for photography studios:  
-Client CRM • Bookings • Invoicing + Paystack • Inventory • Equipment tracking • Staff scheduling • AI assistant (LangGraph) • Client portal • Reports
+Services
+• Django web application development
+• REST API development
+• SaaS development
+• PostgreSQL/database design
+• Background processing with Celery/Redis
+• AI/RAG integration
+• Existing Django application improvement
 
-**[Hospital Inventory Management System](https://github.com/nazirumar/Inventory-Management-System-DRF--API)**  
-Full inventory system with real-time tracking, expiry alerts, supplier management, and REST API.
-
-**[AI RAG Chatbots with LangGraph](https://github.com/nazirumar/Multi-AI-RAG-chatbots-using-LangGraph)**  
-Multi-agent RAG chatbots using LangGraph + local embeddings.
-
-### 📫 Contact
-- GitHub: [nazirumar](https://github.com/nazirumar)
-- Looking for freelance work on Upwork & Fiverr
-
----
-
-⭐ Open to freelance projects and remote opportunities
+Available for freelance and remote opportunities.
